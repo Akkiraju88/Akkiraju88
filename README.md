@@ -19,6 +19,7 @@ I build:
 - Tradeoff analysis  
 - Production constraints  
 - Enterprise scaling considerations  
+
 Every repository includes:
 - Problem definition  
 - User personas  
