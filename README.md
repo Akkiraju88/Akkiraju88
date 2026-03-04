@@ -1,14 +1,16 @@
-👋 Hi, I'm Sravya Akkiraju
+# 👋 Hi, I'm Sravya Akkiraju
 Principal Product Manager building AI Agents, Workflow Automation Systems, and Enterprise AI Platforms.
 I design and prototype production-grade AI systems that combine product thinking, system architecture, and measurable business impact.
-My focus areas:
- 🤖 Multi-agent AI systems
-🔄 AI workflow orchestration
-🧠 Enterprise RAG architectures
-📊 AI evaluation & guardrails
-🏗 Low-code AI builder platforms
-📈 AI for retail, finance, healthcare & enterprise SaaS
-🚀 What Makes My Work Different
+---
+## My focus areas:
+-🤖 Multi-agent AI systems
+-🔄 AI workflow orchestration
+-🧠 Enterprise RAG architectures
+-📊 AI evaluation & guardrails
+-🏗 Low-code AI builder platforms
+-📈 AI for retail, finance, healthcare & enterprise SaaS
+---
+## 🚀 What Makes My Work Different
 Most AI demos stop at prompts.
 I build:
 Systems with architecture diagrams
