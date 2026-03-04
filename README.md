@@ -2,7 +2,7 @@
 Principal Product Manager building AI Agents, Workflow Automation Systems, and Enterprise AI Platforms.
 I design and prototype production-grade AI systems that combine product thinking, system architecture, and measurable business impact.
 My focus areas:
-🤖 Multi-agent AI systems
+ 🤖 Multi-agent AI systems
 🔄 AI workflow orchestration
 🧠 Enterprise RAG architectures
 📊 AI evaluation & guardrails
